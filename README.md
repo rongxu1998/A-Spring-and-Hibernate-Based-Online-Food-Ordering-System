@@ -1,5 +1,4 @@
 # A-Spring-and-Hibernate-Based-Online-Food-Ordering-System
-# DinerToDoor
 
 <p align="center">
 <img src="https://img.shields.io/badge/Backend-%20Java | Spring %20-F6922B.svg">
@@ -50,4 +49,4 @@ This project aims to study and recreate the structure of online food ordering ap
 - **Minimal, content-focused, and clutter-free frontEnd design using ReactJs and AntDesign**.
 
 ## :seedling: For Furture Improvement
-Complete and optimize the paymnet page with third-party payment processing system like [Stripe](https://github.com/Tianyao-Ma/Eco-Express/edit/main/README.md). 
+Complete and optimize the paymnet page with third-party payment processing system like [Stripe]. 
