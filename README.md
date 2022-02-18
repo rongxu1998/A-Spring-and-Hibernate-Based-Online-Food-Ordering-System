@@ -36,7 +36,7 @@ This project aims to study and recreate the structure of online food ordering ap
 ## 📐 Design Doc
 
 <p align="center">
-<img width="800" alt="DinerToDoor DesignDOc" src="https://user-images.githubusercontent.com/78308927/145929139-755e3d9b-6ddd-4568-abec-919a6ee31bb0.png">
+<img width="800" alt="DinerToDoor DesignDOc" src="https://github.com/rongxu1998/A-Spring-and-Hibernate-Based-Online-Food-Ordering-System/blob/main/backend%20design.png">
 </p>
 
 ## :fire: Key Features
